@@ -1,5 +1,5 @@
 # fast-RBM
-Code for ICLR 2025 submission #2003
+Code for ICLR 2025 submission
 
 
 ## Installation
